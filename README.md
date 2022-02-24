@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @lifevaults
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lifevaults/lifevaults is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I am Victor,I am interested in affiliate and online marketing.
+I am still learning and I need a mentor.
+You can reach me through the followings
+victorhodeu@gmail.com
+ WhatsApp +2348020660590
